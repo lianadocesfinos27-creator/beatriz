@@ -1,0 +1,1 @@
+Extraia este ZIP. Envie index.html e as pastas css, js, img e projetos para a raiz do repositorio. Preserve as pastas. GitHub Pages: main / (root). Abra index.html para visualizar localmente.
